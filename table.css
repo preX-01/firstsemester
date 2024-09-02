@@ -1,0 +1,17 @@
+table{
+
+background-color: brown;
+
+
+th {
+    columns:5 ;
+    column-span: 5;
+}
+ul {
+    row-gap: 2in;
+}
+hr {
+    color: azure;
+    border: 1in;
+}
+}

@@ -1,0 +1,9 @@
+header {
+    color: blue;
+}
+
+video {
+    position: relative;
+    animation-play-state: running;
+}
+
